@@ -29,8 +29,8 @@
 - SMCProcessor
 - SMCSuperIO
 - VirtualSMC
-- USBInjectAll
 - WhateverGreen
+- USBMap (custom for Z87MX-D3H)
 
 ---
 
