@@ -5,21 +5,21 @@
 
 # Current Version
 
-- Open Core: v.0.5.9 (64396ae) released on Jun 1, 2020
-- macOS Catalina, v.10.15.5 (19F101) updated on June 02, 2020
+- Open Core: v.0.6.0
+- macOS Catalina, v.10.15.6 Supplemental Update
 - SMBIOS: iMac14,2
 
 # Hardware
 
-- MB [GA-Z87MX-D3H](Extra/Specification-GA-Z87MX-D3H.md) @ BIOS [F6 (of F7)](https://www.gigabyte.com/Motherboard/GA-Z87MX-D3H-rev-1x/support#support-dl-bios)
-- CPU [Intel Core i7-4770](https://ark.intel.com/content/www/us/en/ark/products/75122/intel-core-i7-4770-processor-8m-cache-up-to-3-90-ghz.html) 4C/8T @ 3.4 GHz
+- MB [GA-Z87MX-D3H](Extra/Specification-GA-Z87MX-D3H.md) @ BIOS [F7](https://www.gigabyte.com/Motherboard/GA-Z87MX-D3H-rev-1x/support#support-dl-bios)
+- CPU Intel Core i5-4670
 - iGPU [Intel HD Graphics 4600](https://downloadcenter.intel.com/product/81496/Intel-HD-Graphics-4600)
 - dGPU [Sapphire](https://www.sapphiretech.com/en/consumer/nitro-rx-580-4g-g5) [Radeon RX 580 4 GB](https://www.amd.com/en/products/graphics/radeon-rx-580)
-- RAM 16 GB 1866 MHz DDR3
+- RAM 32 GB 1333 MHz DDR3
 - Audio Codec Realtek ALC892
 - Ethernet `00:00:00:00:00:00` **I217-V** from Intel 
-- Wi-Fi + Bluetooth `00:00:00:00:00:00`  **BCM43602** 802.11ac
-
+- Bluetooth: IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521)
+- Wi-Fi: TP-Link AC1750 Wireless Dual Band PCI-Express Adapter (Archer T8E)
 
 # Kexts
 
