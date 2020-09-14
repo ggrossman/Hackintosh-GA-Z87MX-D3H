@@ -204,9 +204,9 @@
 				<key>AAPL,ig-platform-id</key>
 				<data>BAASBA==</data>
 				<key>framebuffer-patch-enable</key>
-				<string>01000000</string>
+				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
-				<string>00003001</string>
+				<data>AAAwAQ==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
 			<dict>
@@ -529,7 +529,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -609,7 +610,8 @@
 			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
-		<array/>
+		<array>
+		</array>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
@@ -632,7 +634,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 alcid=1</string>
+				<string>-v -cdfon debug=0x100 keepsyms=1 alcid=1</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -699,17 +701,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>{{CHANGE ME}}</string>
+			<string>{{CHANGEME}}</string>
 			<key>ROM</key>
-			<data>RLoINfNo</data>
+			<data>{{CHANGEME}}</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>{{CHANGE ME}}</string>
+			<string>{{CHANGEME}}</string>
 			<key>SystemUUID</key>
-			<string>{{CHANGE ME}}</string>
+			<string>{{CHANGEME}}</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
